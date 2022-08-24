@@ -1,0 +1,8 @@
+.odd {
+	background-image: url(../img/bkg-gray-light.svg);
+}
+
+.even {
+	background-image: url(../img/bkg-gray-dark.svg);
+}
+
